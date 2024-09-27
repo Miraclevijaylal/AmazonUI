@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Casio Men's GA-100 XL Series G-Shock Quartz 200M WR Shock Resistant Watch.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
